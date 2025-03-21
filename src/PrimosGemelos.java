@@ -29,7 +29,7 @@ public class PrimosGemelos{
             System.out.println(i);
 
         }
-        contador=contador/2;
+        
         }
         System.out.println("la cantidad de primos gemelos antes del "+End+" es "+contador);      
         
