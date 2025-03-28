@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ejercicio14",
+            "request": "launch",
+            "mainClass": "GoldenAge.Ejercicio14",
+            "projectName": "proyectopro_4c30db36"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio12",
+            "request": "launch",
+            "mainClass": "GoldenAge.Ejercicio12",
+            "projectName": "proyectopro_4c30db36"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio13",
+            "request": "launch",
+            "mainClass": "GoldenAge.Ejercicio13",
+            "projectName": "proyectopro_4c30db36"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio11",
+            "request": "launch",
+            "mainClass": "GoldenAge.Ejercicio11",
+            "projectName": "proyectopro_4c30db36"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio10",
+            "request": "launch",
+            "mainClass": "GoldenAge.Ejercicio10",
+            "projectName": "proyectopro_4c30db36"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio9",
+            "request": "launch",
+            "mainClass": "GoldenAge.Ejercicio9",
+            "projectName": "proyectopro_4c30db36"
+        },
+        {
+            "type": "java",
             "name": "Ejercicio7",
             "request": "launch",
             "mainClass": "GoldenAge.Ejercicio7",
