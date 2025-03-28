@@ -1,0 +1,76 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Ejercicio7",
+            "request": "launch",
+            "mainClass": "GoldenAge.Ejercicio7",
+            "projectName": "proyectopro_4c30db36"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio6",
+            "request": "launch",
+            "mainClass": "GoldenAge.Ejercicio6",
+            "projectName": "proyectopro_4c30db36"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio5",
+            "request": "launch",
+            "mainClass": "GoldenAge.Ejercicio5",
+            "projectName": "proyectopro_4c30db36"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio3",
+            "request": "launch",
+            "mainClass": "GoldenAge.Ejercicio3",
+            "projectName": "proyectopro_4c30db36"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "proyectopro_4c30db36"
+        },
+        {
+            "type": "java",
+            "name": "HowMany",
+            "request": "launch",
+            "mainClass": "HowMany",
+            "projectName": "proyectopro_4c30db36"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio2",
+            "request": "launch",
+            "mainClass": "GoldenAge.Ejercicio2",
+            "projectName": "proyectopro_4c30db36"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio1",
+            "request": "launch",
+            "mainClass": "GoldenAge.Ejercicio1",
+            "projectName": "proyectopro_4c30db36"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio1",
+            "request": "launch",
+            "mainClass": "Ejercicios.Ejercicio1",
+            "projectName": "proyectopro_4c30db36"
+        },
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        }
+    ]
+}
